@@ -64,8 +64,6 @@ hypr_package_2=(
   nvtop
   nwg-look
   pacman-contrib
-  vim
-  yt-dlp
 )
 
 # List of packages to uninstall as it conflicts with swaync and rofi-wayland
